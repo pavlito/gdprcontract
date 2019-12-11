@@ -39,7 +39,7 @@
         <div class="container pt-5 pb-5">
           <div class="row d-flex align-items-center">
             <div class="col">
-              <h1 class="display-4 mb-5">Frequently Asked <span class="text-primary">Questions</span></h1>
+              <h1 class="mb-5">Frequently Asked Questions</h1>
               <p class="h4 mb-2">Does this Privacy Policy cover me for Google AdSense's latest "Dart Cookie"?</p>
               <p class="mb-5">Yes. This Privacy Policy Generator on www.PrivacyPolicyOnline.com covers the changes made by Google AdSense in March of 2009, and specifically mentions the Dart Cookie.</p>
               <p class="h4 mb-2">Do I need to publish the privacy policies on my page of all of my partners?</p>

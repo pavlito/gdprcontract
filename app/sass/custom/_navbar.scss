@@ -1,0 +1,17 @@
+.navbar-nav {
+    .nav-link {
+        padding-right: $nav-link-padding-x;
+        padding-left: $nav-link-padding-x;
+    }
+}
+
+// @include media-breakpoint-down(lg) {
+//     .navbar-nav {
+//         .nav-item {
+//             &.dropdown {
+//                 width: 100%;
+//                 text-align: right;
+//             }
+//         }
+//     }
+// }

@@ -1,2 +1,2 @@
-# disclaimer-generator
-disclaimer-generator
+# gdprcontract
+

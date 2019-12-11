@@ -37,12 +37,12 @@
             <!-- header -->
             <?php include('../_header.php'); ?>
             
-                <section class="generator-hero">
+                <section class="generator-hero bg-light">
                     <!-- headline and form -->
                     <div class="container">
                         <div class="row d-flex align-items-center">
                             <div class="col-lg-6 text-white">
-                                <h1 class="display-4"><span class="text-primary">Privacy Policy</span> Generator</h1>
+                                <h1>Privacy Policy Generator</h1>
                             </div>
                             <div class="col-lg-5 offset-lg-1 add-z">
                                 <div id="wizard" class="wizard mt-5 mt-lg-0">
@@ -75,8 +75,6 @@
                                     echo $s;
                                     ?>
                                 </div>
-                                <div class="bg-form"></div>
-                                <div class="bg-form-2"></div>
                             </div>
                         </div>
                     </div>
@@ -85,7 +83,7 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-12">
-                                <h2 class="h1 mb-5">Privacy Policy <span class="text-primary">FAQ</span></h2>
+                                <h2 class="mb-5">Privacy Policy FAQ</h2>
                                 <h3 class="h4 mb-2">What exactly is a Privacy Policy?</h3>
                                 <p>A Privacy Policy, also known as a Privacy Notice, simply put is the document where the website or app owner discloses what data is being collected from users, how it's being collected and what the owner is doing with that data.</p>
                                 <br />

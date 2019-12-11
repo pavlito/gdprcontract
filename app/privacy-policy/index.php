@@ -39,7 +39,7 @@
                 <div class="container">
                     <div class="row d-flex">
                         <div class="col">
-                            <h1 class="display-4 mb-4"><span class="text-primary">Our</span> Privacy Policy</h1>
+                            <h1 class="mb-4">Our Privacy Policy</h1>
                             <div class="alert alert-info font-weight-normal">Do not copy-paste this Privacy Policy! <a href="/privacy-policy-generator/">Use our Privacy Policy Generator</a> to create a custom policy for your site.</div>
                             <br/>
                             <p>If you require any more information or have any questions about our privacy policy, please feel free to contact us.</p>

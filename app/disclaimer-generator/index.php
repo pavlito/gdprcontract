@@ -37,12 +37,12 @@
       <!-- header -->
       <?php include('../_header.php'); ?>
       
-        <section class="sect-generator-hero">
+        <section class="sect-generator-hero bg-light">
           <!-- headline and form -->
           <div class="container">
             <div class="row d-flex align-items-center">
               <div class="col-lg-6">
-                <h1 class="display-4"><span class="text-primary">Disclaimer</span> Generator</h1>
+                <h1>Disclaimer Generator</h1>
               </div>
               <div class="col-lg-5 offset-lg-1 add-z">
                 <div id="wizard" class="wizard mt-5 mt-lg-0">
@@ -75,8 +75,6 @@
                   echo $s;
                   ?>
                 </div>
-                <div class="bg-form"></div>
-                <div class="bg-form-2"></div>
               </div>
             </div>
           </div>
@@ -85,7 +83,7 @@
           <div class="container">
             <div class="row">
               <div class="col-12">
-                <h2 class="h1 mb-5">Disclaimer <span class="text-primary">FAQ</span></h2>
+                <h2 class="mb-5">Disclaimer FAQ</h2>
                 <h3 class="mb-2 h4">What exactly is a Disclaimer?</h3>
                 <p>A Disclaimer, sometimes referred to as a Disclosure, is a specific statement for visitors in order to provide transparency. For example, as a website owner, you disclose that your site blog posts contain affiliate links (since it's required by the US FTC and major affiliate networks).</p>
                 <br />

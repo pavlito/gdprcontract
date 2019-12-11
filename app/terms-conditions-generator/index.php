@@ -37,12 +37,12 @@
             <!-- header -->
             <?php include('../_header.php'); ?>
             
-                <section class="sect-generator-hero">
+                <section class="sect-generator-hero bg-light">
                     <!-- headline and form -->
                     <div class="container">
                         <div class="row d-flex align-items-center">
                             <div class="col-lg-6">
-                                <h1 class="display-4"><span class="text-primary">Terms & Conditions</span> Generator</h1>
+                                <h1>Terms & Conditions Generator</h1>
                             </div>
                             <div class="col-lg-5 offset-lg-1 add-z">
                                 <div id="wizard" class="wizard mt-5 mt-lg-0">
@@ -75,8 +75,7 @@
                                     echo $s;
                                     ?>
                                 </div>
-                                <div class="bg-form"></div>
-                                <div class="bg-form-2"></div>
+                              
                             </div>
                         </div>
                     </div>
@@ -85,7 +84,7 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-12">
-                                <h2 class="h1 mb-5">Terms & Conditions <span class="text-primary">FAQ</span></h2>
+                                <h2 class="mb-5">Terms & Conditions FAQ</h2>
                                 <h3 class="h4 mb-2">What are Terms & Conditions on a website?</h3>
                                 <p>Terms & Conditions, also known as Terms of Service or Terms of Use, govern the use of a website by visitors. Simply put, a Terms & Conditions acts like a contract between the website owner and the website visitors.</p>
                                 <br />

@@ -39,7 +39,7 @@
                 <div class="container">
                     <div class="row d-flex align-items-center">
                         <div class="col">
-                            <h1 class="display-4 mb-4">Our Terms of Service</h1>
+                            <h1 class="mb-4">Our Terms of Service</h1>
                             <div class="alert alert-info font-weight-normal">Do not copy-paste this Terms of Service legal page!<a
                             href="/terms-conditions-generator/"> Use our Terms & Conditions Generator</a> to create a
                         custom legal page for your site.</div>
