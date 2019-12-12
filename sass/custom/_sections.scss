@@ -1,3 +1,13 @@
+html,body,.wrapper {
+    height: 100%;
+}
+
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
 
 
 section {

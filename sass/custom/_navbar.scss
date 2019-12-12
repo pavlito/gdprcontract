@@ -5,13 +5,14 @@
     }
 }
 
-// @include media-breakpoint-down(lg) {
-//     .navbar-nav {
-//         .nav-item {
-//             &.dropdown {
-//                 width: 100%;
-//                 text-align: right;
-//             }
-//         }
-//     }
-// }
+.logo {
+	height: $logo-height;
+}
+
+
+
+@include media-breakpoint-down(md) {
+    .logo {
+    	height: $logo-height/1.4;
+    }
+}

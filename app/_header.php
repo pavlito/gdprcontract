@@ -25,13 +25,13 @@
               Blog
             </a>
             <div class="dropdown-menu position-absolute dropdown-menu-right" aria-labelledby="navbarblog">
-              <a class="dropdown-item" href="/what-is-a-privacy-policy/"><strong>What Is A Privacy Policy?</strong></a>
-              <a class="dropdown-item" href="/privacy-policy-template/"><strong>Sample Privacy Policy Template</strong></a>
-              <a class="dropdown-item" href="/coppa/">COPPA Law (Full Text)</a>
-              <a class="dropdown-item" href="/what-are-cookies/">What Are Cookies?</a>
-              <a class="dropdown-item" href="/flash-cookies/">Flash Cookies</a>
-              <a class="dropdown-item" href="/privacy-video/">Online Privacy Videos</a>
-              <a class="dropdown-item" href="/w3c-announces-new-privacy-policy-standard/">W3C Privacy Policy Standard</a>
+              <a class="dropdown-item" href="/post-template/"><strong>Post Template</strong></a>
+              <a class="dropdown-item" href="/post-template/"><strong>Post Template</strong></a>
+              <a class="dropdown-item" href="/post-template/">Post Template</a>
+              <a class="dropdown-item" href="/post-template/">Post Template</a>
+              <a class="dropdown-item" href="/post-template/">Post Template</a>
+              <a class="dropdown-item" href="/post-template/">Post Template</a>
+              <a class="dropdown-item" href="/post-template/">Post Template</a>
             </div>
           </li>
           <li class="nav-item">
